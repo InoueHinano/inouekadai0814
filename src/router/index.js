@@ -3,6 +3,8 @@ import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import PurchaseView from '../views/PurchaseView.vue'; // 購入ページの読み込み
 
+
+
 Vue.use(VueRouter)
 
 const routes = [
